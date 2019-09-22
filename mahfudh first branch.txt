@@ -1,4 +1,7 @@
+TAMBAHAN
+
 - ini adalah branch pertama saya 
 - berusaha mengerti cara menggunakan github
   - memahami MERGE
   - memahami PULL and PUSH
+- Ini adalah target saya
