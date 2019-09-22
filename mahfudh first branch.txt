@@ -4,6 +4,7 @@ TAMBAHAN
 - berusaha mengerti cara menggunakan github
   - memahami MERGE
   - memahami PULL and PUSH
+  - memahami GITHUB lebih detail
 - Ini adalah target saya
 - bisa beli HP baru
 - beli saham
